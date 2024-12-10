@@ -1,0 +1,9 @@
+
+---
+
+#### **5. Add Dependencies**
+Add the required dependencies to your project using Poetry:
+```bash
+poetry add pandas matplotlib
+poetry add --group dev pytest
+
